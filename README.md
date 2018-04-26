@@ -9,3 +9,9 @@ A usable version of Molmil is available at http://gjbekker.github.io/molmil/ and
 
 Additional information with regards to how to integrate Molmil and a reference to the Molmil API can be found on https://github.com/gjbekker/molmil/wiki/Integrate-Molmil 
 and https://github.com/gjbekker/molmil/wiki/Molmil-API respectively.
+
+
+
+### Molmil in action:
+![](http://gjbekker.github.io/molmil/media/molmil_1crn.png)
+http://gjbekker.github.io/molmil/#molmil.loadPDB('1crn')
